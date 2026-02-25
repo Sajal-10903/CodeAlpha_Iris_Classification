@@ -67,15 +67,6 @@ This demonstrates the effectiveness of ensemble learning for classification task
 
 ---
 
-## Project Structure
-CodeAlpha_Iris_Classification/
-│
-├── CodeAlpha_Iris_Classification.ipynb
-├── iris_model.pkl
-├── README.md
-
----
-
 ## Key Learning Outcomes
 
 - Understanding supervised classification
